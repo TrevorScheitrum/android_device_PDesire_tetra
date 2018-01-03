@@ -6,6 +6,8 @@ Android Wear device tree for Sony Smartwatch 3 (SWR50).
 To get this working, you need to obtain clockwork sources from the Google Business Partner repos
 
 https://forum.xda-developers.com/showpost.php?p=74596641&postcount=279
+
+
 Quote:
 Originally Posted by PDesire 
 Okay, it's a long time I went back to XDA after I took a quit for a while... And I have bad news, I broke my SmartWatch 3 for a second time, that's why I have to "quit" this project now.
